@@ -1,3 +1,3 @@
-from search import search
+from .search import search
 
 __all__ = ["search"]
