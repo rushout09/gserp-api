@@ -15,7 +15,7 @@ The GSERP API is an open-source project designed to perform search queries on Go
 ## Installation
 
 ```
-pip install gserp-api==0.1.0
+pip install gserp-api
 ```
 
 or from source:
