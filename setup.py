@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gserp-api',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     install_requires=[
         'beautifulsoup4==4.12.3',
@@ -13,10 +13,10 @@ setup(
     ],
     author='Rushabh Agarwal',
     author_email='rushabh.agarwal9@gmail.com',
-    description='Open Source SERP API',
+    description='Open Source Google SERP API',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/rushout09/serp',
+    url='https://github.com/rushout09/gserp-api',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
